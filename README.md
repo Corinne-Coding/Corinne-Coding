@@ -2,9 +2,7 @@
 
 <h1 align="center">✨ Welcome on my GitHub Profile ✨</h1>
 
-<h3 align="center">My projects</h3>
-
-<p align="center">You can find here some of my projects :</p>
+<h2 align="center">My projects</h2>
 
 <br />
 
@@ -28,16 +26,13 @@
 
 <br />
 
-<h3 align="center">Contact me<h3>
+<h2 align="center">Contact me<h2>
 
-<p align="center">Click on this icon [![LinkedIn][1]][2] to find me on LinkedIn 🤓</p>
+<p align="center">Click on this icon <a href="https://www.linkedin.com/in/corinne-pradier-6610201b2/"><img alt="linkedin icon" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" /></a> to find me on LinkedIn 🤓</p>
 
 <p align="center">or email me : pradier.corinne@gmail.com</p>
 
 
-
-[1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
-[2]: https://www.linkedin.com/in/corinne-pradier-6610201b2/
 
 <!--
 **Corinne-Coding/Corinne-Coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
