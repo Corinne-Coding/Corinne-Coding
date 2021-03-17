@@ -1,22 +1,24 @@
 <h2 align="center">Hi there 👋</h2>
 
+<br />
+
 <h1 align="center">✨ Welcome on my GitHub Profile ✨</h1>
 
-<h2 align="center">🦚 My projects</h2>
-
 <br />
+
+<h2 align="center">🦚 My projects</h2>
 
 <h4 align="center">Chat App 😻</h4>
 
 <p align="center">Fullstack Project made with **React**, **Node.JS** and **Socket.IO**.</p>
-<p align="center">[Click on this link to try it](https://to-do-list-corinne.netlify.app)</p>
+<p align="center"><a href="https://to-do-list-corinne.netlify.app">Click on this link to try it</a></p>
 
 <br />
 
 <h4 align="center">To-do List Project 📝</h4>
 
 <p align="center">Fullstack Project made with **React** and **Node.JS**.</p>
-<p align="center">[Click on this link to try it](https://socket-io-client-corinne.netlify.app)</p>
+<p align="center"><a href="https://socket-io-client-corinne.netlify.app">Click on this link to try it</a></p>
 
 <br />
 
