@@ -13,8 +13,10 @@ Fullstack Project made with React and Node.JS.
 Fullstack Project made with React, Node.JS ans Socket.IO.
 
 
-You can find me on [![LinkedIn][1]][2].
 
+### My LinkedIn
+
+You can find me on [![LinkedIn][1]][2].
 
 [1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 [2]: https://www.linkedin.com/in/corinne-pradier-6610201b2/
