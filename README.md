@@ -8,7 +8,7 @@
 
 <h2 align="center">🦚 My projects 🦚</h2>
 
-<h4 align="center">Chat App</h4>
+<h3 align="center">Chat App</h3>
 
 <p align="center">Fullstack Project made with <strong>React</strong>, <strong>Node.JS</strong> and <strong>Socket.IO</strong>.</p>
 <p align="center">Click on this link to try it => <a href="https://socket-io-client-corinne.netlify.app/">to-do-list-corinne.netlify.app</a></p>
@@ -16,7 +16,7 @@
 
 <br />
 
-<h4 align="center">To-do List Project</h4>
+<h3 align="center">To-do List Project</h3>
 
 <p align="center">Fullstack Project made with <strong>React</strong> and <strong>Node.JS</strong>.</p>
 <p align="center">Click on this link to try it => <a href="https://socket-io-client-corinne.netlify.app">socket-io-client-corinne.netlify.app</a></p>
@@ -24,7 +24,7 @@
 
 <br />
 
-<h4 align="center">My Portfolio</h4>
+<h3 align="center">My Portfolio</h3>
 
 <p align="center">Incoming project... 🐣</p>
 
