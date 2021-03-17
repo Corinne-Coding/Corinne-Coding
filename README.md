@@ -10,14 +10,14 @@
 
 <h4 align="center">Chat App 😻</h4>
 
-<p align="center">Fullstack Project made with **React**, **Node.JS** and **Socket.IO**.</p>
+<p align="center">Fullstack Project made with <strong>React</strong>, <strong>Node.JS</strong> and <strong>Socket.IO</strong>.</p>
 <p align="center"><a href="https://to-do-list-corinne.netlify.app">Click on this link to try it</a></p>
 
 <br />
 
 <h4 align="center">To-do List Project 📝</h4>
 
-<p align="center">Fullstack Project made with **React** and **Node.JS**.</p>
+<p align="center">Fullstack Project made with <strong>React** and <strong>Node.JS</strong>.</p>
 <p align="center"><a href="https://socket-io-client-corinne.netlify.app">Click on this link to try it</a></p>
 
 <br />
