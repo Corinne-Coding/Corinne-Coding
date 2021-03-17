@@ -18,6 +18,8 @@ Fullstack Project made with React, Node.JS ans Socket.IO.
 
 Click on this icon [![LinkedIn][1]][2] to find me on LinkedIn 🤓
 
+<h2 align="center">Hi there 👋</h2>
+
 [1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 [2]: https://www.linkedin.com/in/corinne-pradier-6610201b2/
 
