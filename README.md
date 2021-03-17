@@ -2,7 +2,7 @@
 
 <h1 align="center">✨ Welcome on my GitHub Profile ✨</h1>
 
-<h2 align="center">My projects</h2>
+<h2 align="center">🦚 My projects</h2>
 
 <br />
 
@@ -20,17 +20,17 @@
 
 <br />
 
-<h4 align="center">My Portfolio</h4>
+<h4 align="center">My Portfolio 🐣</h4>
 
-<p align="center">Incoming project... 🐣</p>
+<p align="center">Incoming project...</p>
 
 <br />
 
-<h2 align="center">Contact me<h2>
+<h2 align="center">🚀 Contact me</h2>
 
 <p align="center">Click on this icon <a href="https://www.linkedin.com/in/corinne-pradier-6610201b2/"><img alt="linkedin icon" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" /></a> to find me on LinkedIn 🤓</p>
 
-<p align="center">or email me : pradier.corinne@gmail.com</p>
+<p align="center">or email me : pradier.corinne@gmail.com 📫</p>
 
 
 
