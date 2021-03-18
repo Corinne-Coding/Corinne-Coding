@@ -6,7 +6,7 @@
 
 <br />
 
-<h2 align="center">🦚 My projects 🦚</h2>
+<h2 align="center">🦚 My projects</h2>
 
 <h3 align="center">Chat App</h3>
 
@@ -30,7 +30,7 @@
 
 <br />
 
-<h2 align="center">🍀 Contact me 🍀</h2>
+<h2 align="center">🍀 Contact me</h2>
 
 <p align="center">Click on this icon <a href="https://www.linkedin.com/in/corinne-pradier-6610201b2/"><img alt="linkedin icon" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" /></a> to find me on LinkedIn 🤓</p>
 
