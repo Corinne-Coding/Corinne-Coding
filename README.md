@@ -12,7 +12,7 @@
 
 <p align="center">Fullstack Project made with <strong>React</strong>, <strong>Node.JS</strong> and <strong>Socket.IO</strong>.</p>
 <p align="center">Click on this link to try it ➤ <a href="https://socket-io-client-corinne.netlify.app/">to-do-list-corinne.netlify.app</a></p>
-<p align="center">Take a look on the repositories ➤ <a href="https://github.com/Corinne-Coding/Socket-client">React app</a> and <a href="https://github.com/Corinne-Coding/Socket-server">Node.JS server</a></p>
+<p align="center">Take a look on the repositories ➤ <a href="https://github.com/Corinne-Coding/Socket-client">Socket.io Client</a> and <a href="https://github.com/Corinne-Coding/Socket-server">Socket.io server</a></p>
 
 <br />
 
