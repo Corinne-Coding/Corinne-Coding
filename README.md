@@ -32,7 +32,7 @@
 
 <h2 align="center">Contact me</h2>
 
-<p align="center">Click on this icon <a href="https://www.linkedin.com/in/corinne-pradier-6610201b2/"><img alt="linkedin icon" src="https://res.cloudinary.com/cococloud/image/upload/c_scale,w_20/v1618215644/professional/linkedin_lra9cp.png" /></a> to find me on LinkedIn 🤓</p>
+<p align="center">Click on this icon <a href="https://www.linkedin.com/in/corinne-pradier-6610201b2/"><img alt="linkedin icon" src="https://res.cloudinary.com/cococloud/image/upload/c_scale,w_22/v1618215644/professional/linkedin_lra9cp.png" /></a> to find me on LinkedIn</p>
 
 <p align="center">📫 email me ➤ <strong>pradier.corinne@gmail.com</strong></p>
 
