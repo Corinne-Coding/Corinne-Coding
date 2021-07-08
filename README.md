@@ -13,7 +13,7 @@
 
 <p align="center">Frontend Web Project made with <strong>React</strong> and <strong>Sass</strong>.</p>
 <p align="center">Click on this link to see it ➤ <a href="https://corinne-pradier.netlify.app/">https://corinne-pradier.netlify.app/</a></p>
-<p align="center">Take a look on the repository ➤ <a href="https://github.com/Corinne-Coding/Portfolio">Web project</a></p>
+<p align="center">Take a look on the repository ➤ <a href="https://github.com/Corinne-Coding/Portfolio">Portfolio repository</a></p>
 
 <br />
 
