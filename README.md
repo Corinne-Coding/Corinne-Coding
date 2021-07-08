@@ -40,7 +40,7 @@
 
 <p align="center">Mobile Project made with <strong>Expo</strong>.</p>
 <p align="center">Click on this link to try it with Expo Go application ➤ <a href="https://expo.io/@corinne-coding/memory-game/">memory game QRCode</a></p>
-<p align="center">Take a look on the repository ➤ <a href="https://github.com/Corinne-Coding/Memory-Game-RN">Expo Client</a></p>
+<p align="center">Take a look on the repository ➤ <a href="https://github.com/Corinne-Coding/Memory-Game-RN">Memory Game repository</a></p>
 
 <br />
 
