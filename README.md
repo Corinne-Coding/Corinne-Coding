@@ -13,7 +13,7 @@
 
 <p align="center">Frontend Web Project made with <strong>React</strong> and <strong>Sass</strong>.</p>
 <p align="center">Click on this link to see it ➤ <a href="https://corinne-pradier.netlify.app/">https://corinne-pradier.netlify.app/</a></p>
-<p align="center">Take a look on the repository ➤ <a href="https://github.com/Corinne-Coding/Portfolio">Web project</a></p>
+<p align="center">Take a look on the repository ➤ <a href="https://github.com/Corinne-Coding/Portfolio">Portfolio repository</a></p>
 
 <br />
 
@@ -40,7 +40,7 @@
 
 <p align="center">Frontend Project made with <strong>Expo</strong>.</p>
 <p align="center">Click on this link to try it with Expo Go application ➤ <a href="https://expo.io/@corinne-coding/memory-game/">memory game QRCode</a></p>
-<p align="center">Take a look on the repository ➤ <a href="https://github.com/Corinne-Coding/Memory-Game-RN">Expo Client</a></p>
+<p align="center">Take a look on the repository ➤ <a href="https://github.com/Corinne-Coding/Memory-Game-RN">Memory Game repository</a></p>
 
 <br />
 
