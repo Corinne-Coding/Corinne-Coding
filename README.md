@@ -13,7 +13,7 @@
 
 <p align="center">Frontend Web Project made with <strong>React</strong> and <strong>Sass</strong>.</p>
 <p align="center">Click on this link to see it ➤ <a href="https://corinne-pradier.netlify.app/">https://corinne-pradier.netlify.app/</a></p>
-<p align="center">Take a look on the repository ➤ <a href="https://github.com/Corinne-Coding/Portfolio">Portfolio repository</a></p>
+<p align="center">Take a look at the repository ➤ <a href="https://github.com/Corinne-Coding/Portfolio">Portfolio repository</a></p>
 
 <br />
 
@@ -23,7 +23,7 @@
 
 <p align="center">Fullstack Web Project made with <strong>React</strong>, <strong>Node.JS</strong> and <strong>Socket.IO</strong>.</p>
 <p align="center">Click on this link to try it ➤ <a href="https://socket-io-client-corinne.netlify.app/">socket-io-client-corinne.netlify.app</a></p>
-<p align="center">Take a look on the repositories ➤ <a href="https://github.com/Corinne-Coding/Socket-client">Socket.io Client</a> and <a href="https://github.com/Corinne-Coding/Socket-server">Socket.io server</a></p>
+<p align="center">Take a look at the repositories ➤ <a href="https://github.com/Corinne-Coding/Socket-client">Socket.io Client</a> and <a href="https://github.com/Corinne-Coding/Socket-server">Socket.io server</a></p>
 
 <br />
 
@@ -31,7 +31,7 @@
 
 <p align="center">Fullstack Web Project made with <strong>React</strong> and <strong>Node.JS</strong>.</p>
 <p align="center">Click on this link to try it ➤ <a href="https://to-do-list-corinne.netlify.app">to-do-list-corinne.netlify.app</a></p>
-<p align="center">Take a look on the repositories ➤ <a href="https://github.com/Corinne-Coding/To-Do-List-React-APP">React app</a> and <a href="https://github.com/Corinne-Coding/To-do-List-express-API">Node.JS server</a></p>
+<p align="center">Take a look at the repositories ➤ <a href="https://github.com/Corinne-Coding/To-Do-List-React-APP">React app</a> and <a href="https://github.com/Corinne-Coding/To-do-List-express-API">Node.JS server</a></p>
 
 <br />
 
@@ -40,7 +40,7 @@
 
 <p align="center">Frontend Mobile Project made with <strong>Expo</strong>.</p>
 <p align="center">Click on this link to try it with Expo Go application ➤ <a href="https://expo.io/@corinne-coding/memory-game/">memory game QRCode</a></p>
-<p align="center">Take a look on the repository ➤ <a href="https://github.com/Corinne-Coding/Memory-Game-RN">Memory Game repository</a></p>
+<p align="center">Take a look at the repository ➤ <a href="https://github.com/Corinne-Coding/Memory-Game-RN">Memory Game repository</a></p>
 
 <br />
 
