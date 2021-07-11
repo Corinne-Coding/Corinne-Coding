@@ -2,7 +2,7 @@
 
 <br />
 
-<h1 align="center">✨ Welcome on my GitHub Profile ✨</h1>
+<h1 align="center">✨ Welcome to my GitHub Profile ✨</h1>
 
 <br />
 
