@@ -3,9 +3,11 @@
 
 <h4>Who I am</h4>
 
-I'm a fullstack web & mobile developer currently working at Le Reacteur as a trainer.
+I'm a Fullstack Web & Mobile developer currently working at Le Reacteur as a trainer. I also work on personal projects in my spare time.  
 
-<h3>My projects</h3>
+<hr />
+
+<h4>My projects</h4>
 
 
 <h4>Portfolio</h4>
