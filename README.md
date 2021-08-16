@@ -1,5 +1,10 @@
 <h2>Hi there 👋</h2>
 
+
+<h4>Who I am</h4>
+
+I'm a fullstack web & mobile developer currently working at Le Reacteur as a trainer.
+
 <h3>My projects</h3>
 
 
