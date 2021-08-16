@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h2>Hi there 👋</h2>
 
 <h3 align="center">My projects</h3>
 
