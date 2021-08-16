@@ -10,11 +10,10 @@ I'm a Fullstack Web & Mobile developer currently working at Le Reacteur as a tra
 <h4>My projects</h4>
 
 
-<h4>Portfolio</h4>
 
-<p>Frontend Web Project made with <strong>React</strong> and <strong>Sass</strong>.</p>
-<p>Click on this link to see it ➤ <a href="https://corinne-pradier.netlify.app/">https://corinne-pradier.netlify.app/</a></p>
-<p>Take a look at the repository ➤ <a href="https://github.com/Corinne-Coding/Portfolio">Portfolio repository</a></p>
+<p><strong>Portfolio</strong> : frontend Web Project made with <strong>React</strong> and <strong>Sass</strong>.</p>
+<p>url ➤ <a href="https://corinne-pradier.netlify.app/">https://corinne-pradier.netlify.app/</a></p>
+<p>repository ➤ <a href="https://github.com/Corinne-Coding/Portfolio">Portfolio repository</a></p>
 
 <br />
 
