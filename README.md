@@ -1,8 +1,4 @@
-<h3 align="center">Hi there 👋</h3>
-
-<h2 align="center">✨ Welcome to my GitHub Profile ✨</h1>
-
-<br />
+<h1 align="center">Hi there 👋</h1>
 
 <h3 align="center">My projects</h3>
 
