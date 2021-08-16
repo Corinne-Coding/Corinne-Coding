@@ -3,7 +3,7 @@
 
 <h3>Who I am</h3>
 
-I'm a Fullstack Web & Mobile developer currently working at Le Reacteur as a trainer. I also work on personal projects in my spare time.  
+I'm a <strong>Fullstack Web & Mobile developer</strong> currently working at Le Reacteur as a trainer. I also work on personal projects in my spare time.  
 
 <hr />
 
@@ -53,6 +53,7 @@ I'm a Fullstack Web & Mobile developer currently working at Le Reacteur as a tra
 
 <br />
 
+<hr />
 
 
 <h3>Contact me</h3>
