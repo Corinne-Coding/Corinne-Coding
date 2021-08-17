@@ -30,7 +30,7 @@ I'm a <strong>Fullstack Web & Mobile developer</strong> currently working at Le 
 
 
 
-<p><strong>To-do List Project</strong> :fullstack Web project made with <strong>React</strong> and <strong>Node.JS</strong>.</p>
+<p><strong>To-do List Project</strong> : fullstack Web project made with <strong>React</strong> and <strong>Node.JS</strong>.</p>
 <p>url ➤ <a href="https://to-do-list-corinne.netlify.app">to-do-list-corinne.netlify.app</a></p>
 <p>repositories ➤ <a href="https://github.com/Corinne-Coding/To-Do-List-React-APP">React app</a> and <a href="https://github.com/Corinne-Coding/To-do-List-express-API">Node.JS server</a></p>
 
