@@ -13,7 +13,7 @@ I'm a <strong>Fullstack Web & Mobile developer</strong> currently working at Le 
 
 <p><strong>Portfolio</strong> : frontend Web project made with <strong>React</strong> and <strong>Sass</strong>.</p>
 <p>url ➤ <a href="https://corinne-pradier.netlify.app/">https://corinne-pradier.netlify.app/</a></p>
-<p>repository ➤ <a href="https://github.com/Corinne-Coding/Portfolio">Portfolio repository</a></p>
+<p>repository ➤ <a href="https://github.com/Corinne-Coding/Portfolio-v2">Portfolio repository</a></p>
 
 <br />
 
