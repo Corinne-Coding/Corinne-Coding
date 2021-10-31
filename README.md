@@ -49,7 +49,9 @@ I'm a <strong>Fullstack Web & Mobile developer</strong> currently working at Le 
 
 
 
-<p><strong>Airbnb mobile</strong> : incoming project... 🐣</p>
+<p><strong>Airbnb Mobile App</strong> : fullstack Mobile project made with <strong>Expo</strong>.</p>
+<p>Scan QRCode with Expo Go application ➤ <a href="https://expo.dev/@corinne-coding/Airbnb-Mobile-App">airbnb QRCode</a></p>
+<p>repositories ➤ <a href="https://github.com/Corinne-Coding/Airbnb-Mobile-APP">Airbnb mobile app</a> & <a href="https://github.com/Corinne-Coding/Airbnb-API">Airbnb API</a> </p>
 
 <br />
 
