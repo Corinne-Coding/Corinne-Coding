@@ -3,59 +3,8 @@
 
 <h3>Who I am</h3>
 
-I'm a <strong>Fullstack Web & Mobile developer</strong> currently working at Mazarine Digital as a Front-End Developer. I also work on personal projects in my spare time.  
+I'm a <strong>Fullstack Web & Mobile developer</strong> currently working at Mazarine Digital as a Front-End Developer.  
 
-<hr />
-
-<h3>My projects</h3>
-
-
-
-<p><strong>Portfolio</strong> : frontend Web project made with <strong>React</strong> and <strong>Sass</strong>.</p>
-<p>url ➤ <a href="https://corinne-pradier.netlify.app/">https://corinne-pradier.netlify.app/</a></p>
-<p>repository ➤ <a href="https://github.com/Corinne-Coding/Portfolio-v2">Portfolio repository</a></p>
-
-<br />
-
-
-
-
-<p><strong>Chat App</strong> : fullstack Web project made with <strong>React</strong>, <strong>Node.JS</strong> and <strong>Socket.IO</strong>.</p>
-<p>url ➤ <a href="https://socket-io-client-corinne.netlify.app/">socket-io-client-corinne.netlify.app</a></p>
-<p>repositories ➤ <a href="https://github.com/Corinne-Coding/Socket-client">Socket.io Client</a> and <a href="https://github.com/Corinne-Coding/Socket-server">Socket.io server</a></p>
-
-<br />
-
-
-
-
-
-<p><strong>To-do List Project</strong> : fullstack Web project made with <strong>React</strong> and <strong>Node.JS</strong>.</p>
-<p>url ➤ <a href="https://to-do-list-corinne.netlify.app">to-do-list-corinne.netlify.app</a></p>
-<p>repositories ➤ <a href="https://github.com/Corinne-Coding/To-Do-List-React-APP">React app</a> and <a href="https://github.com/Corinne-Coding/To-do-List-express-API">Node.JS server</a></p>
-
-<br />
-
-
-
-
-<p><strong>Memory Game</strong> : frontend Mobile project made with <strong>Expo</strong>.</p>
-<p>Scan QRCode with Expo Go application ➤ <a href="https://expo.io/@corinne-coding/memory-game/">memory game QRCode</a></p>
-<p>repository ➤ <a href="https://github.com/Corinne-Coding/Memory-Game-RN">Memory Game repository</a></p>
-
-<br />
-
-
-
-
-
-<p><strong>Airbnb Mobile App</strong> : fullstack Mobile project made with <strong>Expo</strong>.</p>
-<p>Scan QRCode with Expo Go application ➤ <a href="https://expo.dev/@corinne-coding/Airbnb-Mobile-App">airbnb QRCode</a></p>
-<p>repositories ➤ <a href="https://github.com/Corinne-Coding/Airbnb-Mobile-APP">Airbnb mobile app</a> & <a href="https://github.com/Corinne-Coding/Airbnb-API">Airbnb API</a> </p>
-
-<br />
-
-<hr />
 
 
 <h3>Contact me</h3>
